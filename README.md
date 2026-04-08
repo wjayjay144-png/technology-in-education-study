@@ -7,6 +7,12 @@ Jayjay – Student Researcher and Coding Enthusiast
 📌 1. Introduction
 Technology is becoming an essential part of modern education. While many students use games for entertainment, certain types of games—especially coding-based games—can also help develop important thinking skills. This research explores how simple coding games can improve logical thinking in young students.
 
+1. Introduction to Technology
+
+Technology has become an essential part of modern life. It influences the way people communicate, learn, work, and solve problems. From computers and smartphones to advanced software and artificial intelligence, technology continues to shape the world in powerful ways.
+In education, technology has transformed traditional learning methods into more interactive and engaging experiences. Digital tools, online platforms, and educational applications allow students to access information easily and develop important skills such as critical thinking and problem-solving.
+As technology continues to grow, it plays a crucial role in improving efficiency, creativity, and innovation. Understanding its impact is important, especially for students, as it prepares them for a future where technology will be deeply integrated into everyday life.
+
 ❓ 2. Research Question
 
 
