@@ -4,8 +4,6 @@ A student-led research project exploring how technology and simple coding tools 
 👩‍💻 Author
 
 Jayjay – Student Researcher and Coding Enthusiast
-📌 1. Introduction
-Technology is becoming an essential part of modern education. While many students use games for entertainment, certain types of games—especially coding-based games—can also help develop important thinking skills. This research explores how simple coding games can improve logical thinking in young students.
 
 1. Introduction to Technology
 
